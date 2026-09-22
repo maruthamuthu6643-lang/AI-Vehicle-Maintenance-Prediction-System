@@ -1,0 +1,6 @@
+{
+  "name": "AI Vehicle Maintenance Prediction System",
+  "description": "An intelligent predictive maintenance system for vehicles featuring real-time risk assessment, component wear analysis, service scheduling, and explainable AI diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
